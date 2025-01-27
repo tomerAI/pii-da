@@ -1,0 +1,12 @@
+jupyter
+notebook
+transformers>=4.47.1
+torch
+ipywidgets>=8.0.0
+datasets
+openai
+huggingface-hub
+python-dotenv
+langchain
+langchain-openai
+pydantic 
